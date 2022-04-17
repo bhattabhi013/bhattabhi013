@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter and NodeJS**
 
-- 👯 I’m looking to collaborate on [Flutter Fire](https://github.com/bhattabhi013/flutterfire)
+- 👯 I’m looking to collaborate on [Smooth-App](https://github.com/openfoodfacts/smooth-app)
 
 - 💬 Ask me about **Ionic, Angular**
 
