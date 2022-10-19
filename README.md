@@ -93,6 +93,15 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhattabhi013&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
 	
 </details>
+
+<details><summary> <h3> 🎖️ Hactoberfest badges </h3></summary>
+
+----
+	
+[![@bhattabhi's Holopin board](https://holopin.me/bhattabhi)](https://holopin.io/@bhattabhi)
+	
+</details>
+
 </br></br>
 
 ## 🐍 A Snake Eating my Contributions Graph
