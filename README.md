@@ -26,7 +26,7 @@
 - :computer: I am a competitive programmer at `Codechef`, `Google Contests`, `Leetcode`.
 - :student: I’m currently learning `Flutter` and `Node Js`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for `an Intern` or a new `job opportunity`, this is [Resume](https://drive.google.com/file/d/1DsQyoNYt9Ghg-8hw5P-DSx77B227H71y/view?usp=sharing).
+- :thinking: I’m currently open for `an Intern` or a new `job opportunity`, here is my [Resume](https://drive.google.com/file/d/1jU9NU8bTzLjxOHAoveib_FF3uyc6nVyk/view?usp=sharing).
 <br>
 
 ----
