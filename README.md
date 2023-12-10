@@ -1,14 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Abhishek Bhatt</h1>
-<h3 align="center">Self-motivated, quick learner and tech savvy professional who believes in upgrading skills and knowledge levels as continuous process to handle new technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhattabhi013&label=Profile%20views&color=0e75b6&style=flat" alt="bhattabhi013" /> </p>
 
-- 🔭 I’m currently working on [Shop_App](https://github.com/bhattabhi013/Shop_FLutter)
+- 🔭 I’m currently working on [Vritant](https://github.com/bhattabhi013/Vritant)
 
-- 👯 I’m looking to collaborate on [Smooth-App](https://github.com/openfoodfacts/smooth-app)
+- 👯 I’m looking to collaborate on [Vritant](https://github.com/bhattabhi013/Vritant)
 
-- 💬 Ask me about **Ionic, Angular, Flutter**
+- 💬 Ask me about **Ionic, Angular, Flutter, Firebase, and AWS**
 
 - ⚡ Fun fact **Earth is not flat.**
 
@@ -20,13 +19,13 @@
 
 <br><br>
 
-- :school: I am a `Student` at Maharaj Agrasen Institute of Technology.
-- :trophy: 3+ YOE in software development, SIH-2022 finalist, SSOC contributor.
+- :school: I am a final year `undergrad` at Maharaja Agrasen Institute of Technology.
+- :trophy: 3+ YOE in software development, Open-Source contributor @C4GT, AWS Cloud CLub Captain SIH-2022 finalist and Open-Source mentor [@CodePeak](https://www.codepeak.tech/)
 - :technologist: I love open-source contribution.
-- :computer: I am a competitive programmer at `Codechef`, `Google Contests`, `Leetcode`.
+- :computer: I am a competitive programmer at `Codechef` and `Leetcode`
 - :student: I’m currently learning `Flutter` and `Node Js`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for `an Intern` or a new `job opportunity`, here is my [Resume](https://drive.google.com/file/d/1jU9NU8bTzLjxOHAoveib_FF3uyc6nVyk/view?usp=sharing).
+- :thinking: I’m currently open for `an Intern` or a new `job opportunity`, here is my [Resume]([https://drive.google.com/file/d/1jU9NU8bTzLjxOHAoveib_FF3uyc6nVyk/view?usp=sharing](https://drive.google.com/file/d/1rRBxy5xvqm1z9-2kSuTLh47toyZ4e0wa/view?usp=sharing)).
 <br>
 
 ----
