@@ -3,30 +3,41 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhattabhi013&label=Profile%20views&color=0e75b6&style=flat" alt="bhattabhi013" /> </p>
 
-- 🔭 I’m currently working on [Vritant](https://github.com/bhattabhi013/Vritant)
-
-- 👯 I’m looking to collaborate on [Vritant](https://github.com/bhattabhi013/Vritant)
-
-- 💬 Ask me about **Ionic, Angular, Flutter, Firebase, and AWS**
-
-- ⚡ Fun fact **Earth is not flat.**
-
-----	
-
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>  </picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
+----
 
-- :school: I am a final year `undergrad` at Maharaja Agrasen Institute of Technology.
-- :trophy: 3+ YOE in software development, Open-Source contributor @C4GT, AWS Cloud CLub Captain SIH-2022 finalist and Open-Source mentor [@CodePeak](https://www.codepeak.tech/)
-- :technologist: I love open-source contribution.
+- :school: I am a final year `undergrad` at Maharaja Agrasen Institute of Technology
+- :trophy: 4+ YOE in software development, Open-Source contributor @C4GT, SIH-2022 finalist and Open-Source mentor [@CodePeak](https://www.codepeak.tech/)
+- 🥇 Selected as one of the 50 worldwide AWS Cloud Club Captains
 - :computer: I am a competitive programmer at `Codechef` and `Leetcode`
-- :student: I’m currently learning `Flutter` and `Node Js`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for `an Intern` or a new `job opportunity`, here is my [Resume]([https://drive.google.com/file/d/1jU9NU8bTzLjxOHAoveib_FF3uyc6nVyk/view?usp=sharing](https://drive.google.com/file/d/1rRBxy5xvqm1z9-2kSuTLh47toyZ4e0wa/view?usp=sharing)).
-<br>
+- :student: I’m currently learning `Flutter` and `AWS`
+- :thinking: I’m currently open for `an Intern` or a new `job opportunity`, here is my [Resume](https://docs.google.com/document/d/1fpvHEZtwHK28QHxHxpk1yI4QiNZUoVccOPoMaC2IjyA/edit?usp=sharing)
+- 🔭 I’m currently working on [Vritant](https://github.com/bhattabhi013/Vritant)
+- 👯 I’m looking to collaborate on [Vritant](https://github.com/bhattabhi013/Vritant)
+
+----
+
+<h2>💻 Experience  </h2>
+
+| Organization                              | Position                         | Duration            | Technologies                                     |
+| ----------------------------------------- | ---------------------------------| ------------------- | ------------------------------------------------ |
+| **CODE FOR GOVTECH (C4GT 23’)**           | Open-Source Contributor          | 07/2023 - 09/2023   | Angular, Ionic, PWA, Figma                       |
+| **TATA POWER DELHI DISTRIBUTION LIMITED** | Software Engineer                | 09/2018 - 11/2021   | Angular, Ionic, Flutter, Firebase                |
+
+
+----
+
+<h2 align="left">🥑 Open Source </h2>
+
+- CodePeak'23 - Open Source Project Admin
+- GirlScript Summer of Code'23 - Open Source Project Mentor
+- Social Winter of Code(SWOC) - Open Source Project Mentor
+- Innogeeks Winter of Code(IWOC) - Open Source Project Mentor
+- Achieved the rank of top 3 teams out of 100+ teams HackSquad'22
+- Hacktoberfest'22 - Open Source Contributor (Total Pr's Merged: 10+)
 
 ----
 
