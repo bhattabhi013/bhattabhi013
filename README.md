@@ -100,14 +100,6 @@
   </p>
 </details>
 
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
-
-----
-	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhattabhi013&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
-	
-</details>
-
 <details><summary> <h3> 🎖️ Hactoberfest badges </h3></summary>
 
 ----
@@ -118,8 +110,3 @@
 
 </br>
 
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/bhattabhi013/bhattabhi013/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
-</p>
