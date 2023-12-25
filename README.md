@@ -100,14 +100,6 @@
   </p>
 </details>
 
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
-----
-
-<a href="https://github.com/bhattabhi013"><img alt="Abhishek's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bhattabhi013&custom_title=bhattabhi013's%20Contribution%20Graph&theme=react-dark" /></a>
- 
-</details>
-
 <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 
 ----
