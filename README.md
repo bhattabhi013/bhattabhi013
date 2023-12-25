@@ -41,6 +41,18 @@
 
 ----
 
+| <h3>Name</h3> | <h3>Github Repo</h3> | <h3>Techstack</h3> | <h3>Demo</h3> | <h3>TimeLine</h3> |
+|-----------|-----------|-----------|-----------|-----------|
+| Vritant | [Code](https://github.com/bhattabhi013/Vritant) | ```Android``` ```Flutter``` ```Firebase``` | [Video](https://youtu.be/pZJ-Nz6inIE?si=PGaMH2M_UBOZ2Fx9) | Nov 22 - Present |
+| Smooth App | [Code](https://github.com/openfoodfacts/smooth-app/pulls/bhattabhi013) | ```Flutter``` ```Dart``` | [PlayStore](https://openfoodfacts.github.io/smoothielanding/) | Mar 22 - Present  |
+| Unnati | [Code](https://github.com/ELEVATE-Project/project-frontend/tree/c4gt) | ```Angular``` ```Ionic``` ```Figma``` | [Demo](https://dev.elevate-unnati.shikshalokam.org/) | July 23 - Sep 23 |
+| Adroid Connectz | [Code](https://github.com/bhattabhi013/adroid_connectz_app) |  ```Android``` ```Flutter``` ```Firebase``` ```Stripe``` | [PlayStore](https://play.google.com/store/apps/details?id=com.adroid.adroidconnectz) | May  23 - June 23 |
+| Autozoom AI | [Code](https://github.com/bhattabhi013/AutoZoomAI) | ```Android``` ```Flutter``` ```Google ML KIT``` | [Video](https://youtu.be/odKU5AsooE4) | Mar 23 | 
+| Swagnation | [Code](https://github.com/bhattabhi013/medusa_medical) | ```React``` ```JavaScript``` ```TypeScript``` ```Medusa``` | [Video](https://www.youtube.com/watch?v=bzoiAzrnp1Y) | Oct 22 |
+| FlutterFire CLI | [Code](https://github.com/invertase/flutterfire_cli/) | ```Dart``` ```Flutter``` ```Firebase``` | [Package](https://pub.dev/packages/flutterfire_cli) | Oct 22 |  
+
+----
+
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
 	<a href="mailto:bhattabhi013@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -112,11 +124,10 @@
 	
 </details>
 
-</br></br>
+</br>
 
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
 	<img src = "https://github.com/bhattabhi013/bhattabhi013/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
 </p>
-	
