@@ -9,14 +9,14 @@
 
 ----
 
-- :school: I am a final year `undergrad` at Maharaja Agrasen Institute of Technology
-- :trophy: 4+ YOE in software development, Open-Source contributor @C4GT, SIH-2022 finalist and Open-Source mentor [@CodePeak](https://www.codepeak.tech/)
-- 🥇 Selected as one of the 50 worldwide AWS Cloud Club Captains
-- :computer: I am a competitive programmer at `Codechef` and `Leetcode`
-- :student: I’m currently learning `Flutter` and `AWS`
-- :thinking: I’m currently open for `an Intern` or a new `job opportunity`, here is my [Resume](https://docs.google.com/document/d/1fpvHEZtwHK28QHxHxpk1yI4QiNZUoVccOPoMaC2IjyA/edit?usp=sharing)
-- 🔭 I’m currently working on [Vritant](https://github.com/bhattabhi013/Vritant)
-- 👯 I’m looking to collaborate on [Vritant](https://github.com/bhattabhi013/Vritant)
+- :office: Senior Software Developer specializing in Front-end Development and Flutter mobile development at SalaryBox (YC S21)
+- :trophy: 4+ years software development experience | Open-Source contributor @C4GT | SIH-2022 finalist | Open-Source mentor @CodePeak
+- 🥇 AWS Cloud Club Captain (1 of 50 worldwide)
+- :computer: Active competitive programmer on Codechef and Leetcode
+- :student: Building expertise in `React` and `AWS`
+- :briefcase: Open to new opportunities | [Resume](https://docs.google.com/document/d/1fpvHEZtwHK28QHxHxpk1yI4QiNZUoVccOPoMaC2IjyA/edit?usp=sharing)
+- 🔭 Currently developing [Vritant](https://github.com/bhattabhi013/Vritant)
+- 👯 Looking for collaborators on [Vritant](https://github.com/bhattabhi013/Vritant)
 
 ----
 
@@ -24,6 +24,8 @@
 
 | Organization                              | Position                         | Duration            | Technologies                                     |
 | ----------------------------------------- | ---------------------------------| ------------------- | ------------------------------------------------ |
+| **SaalaryBox (YC s'21)** 		    | Front-end Developer              | 11/2024 - Present   | React, Redux, Figma              		|
+| **CONSULTADD**			    | Information System Engineer      | 07/2024 - 11/2024   | React, AWS, Firebase		                |
 | **CODE FOR GOVTECH (C4GT 23’)**           | Open-Source Contributor          | 07/2023 - 09/2023   | Angular, Ionic, PWA, Figma                       |
 | **TATA POWER DELHI DISTRIBUTION LIMITED** | Software Engineer                | 09/2018 - 11/2021   | Angular, Ionic, Flutter, Firebase                |
 
